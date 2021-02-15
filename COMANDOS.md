@@ -12,7 +12,7 @@
  | git log --oneline |exibe os registros em uma linha |
  | git diff |verifica modificações no repositório local |
  | git diff --staged | verifica modificações em arquivos que estão no stage area |
- | git rm name_file.ext | remove arquivos) |
+ | git rm name_file.ext | remove arquivos |
  | git mv name_file_atualmente name_file_pretendido | renomeia arquivos |
  | git mv name_file.ext | diretorio/name_file.ext |
  | git branch | lista as branchs |
