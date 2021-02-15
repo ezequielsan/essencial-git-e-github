@@ -14,7 +14,7 @@
  | git diff --staged | verifica modificações em arquivos que estão no stage area |
  | git rm name_file.ext | remove arquivos |
  | git mv name_file_atualmente name_file_pretendido | renomeia arquivos |
- | git mv name_file.ext | diretorio/name_file.ext |
+ | git mv name_file.ext pasta/name_file.ext | move arquivos entre pastas |
  | git branch | lista as branchs |
  | git branch name_branch  |cria uma branch |
  | git branch -d name_branch |deleta a branch |
